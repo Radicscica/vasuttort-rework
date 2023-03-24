@@ -1,4 +1,8 @@
+  .card {
+    margin-bottom: 25px;
+    padding: 25px;
+  }
 
-jobb {
-    text-align: right;
+  p{
+    text-align: justify;
   }
